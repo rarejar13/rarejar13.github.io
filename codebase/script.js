@@ -58,7 +58,7 @@ webix.ui({
                 data:[
                         {value:"Dashboard",},
                         {value:"Users"},
-                        {value:"Products"},
+                        {view:"button", value:"Products", id:"prod"},
                         {value:"Location"}
                     ]},//sidebar
 
