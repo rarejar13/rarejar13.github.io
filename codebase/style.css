@@ -1,0 +1,7 @@
+.list_color{
+  background-color: #EEEEEE;
+  font-weight: 500;
+}
+.list_color .webix_selected{
+  background-color: #dddfe2;
+}
